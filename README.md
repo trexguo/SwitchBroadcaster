@@ -10,8 +10,8 @@ Commands
 
 Permissions
 --------
-Test
+test
 
 Configuration
 --------
-Test
+
